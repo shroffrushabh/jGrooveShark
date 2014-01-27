@@ -3,5 +3,4 @@ This is Java Wrapper for the Grooveshark Api, you can check the Main.java for so
 ImportantKeys
 
 secret - secret_value
-
 key - key_value
