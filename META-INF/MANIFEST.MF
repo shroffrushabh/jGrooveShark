@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Grooveshark
+Bundle-SymbolicName: Grooveshark
+Bundle-Version: 1.0.0.qualifier
+Export-Package: .,
+ com.http.connection,
+ com.http.util
