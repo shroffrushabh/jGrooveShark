@@ -7,9 +7,9 @@ public class Main {
 		Constants.initializeConstants();
 		GSMethods method = new GSMethods();
 		method.startSession();
-		//method.registerUser("rushabhone1@gmail.com", "1012sp12", "Rsshroff", method.getSessionId());
+		//method.registerUser("", "", "Rsshroff", method.getSessionId());
 
-		//method.authenticate("shroffrushabh@gmail.com", 
+		//method.authenticate("", 
 		//		"", method.getSessionId());
 		//method.logout(method.getSessionId());
 		method.getCountry();
