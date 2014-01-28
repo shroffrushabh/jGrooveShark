@@ -10,7 +10,7 @@ public class Main {
 		//method.registerUser("rushabhone1@gmail.com", "1012sp12", "Rsshroff", method.getSessionId());
 
 		//method.authenticate("shroffrushabh@gmail.com", 
-		//		"1012sp12", method.getSessionId());
+		//		"", method.getSessionId());
 		//method.logout(method.getSessionId());
 		method.getCountry();
 		method.getStreamKeyStreamServer(method.getSessionId(),33031232);
